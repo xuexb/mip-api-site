@@ -65,7 +65,7 @@ GET
             "type": "platform",
             "name": "mip-mipengine-preview",
             "version": "1.0.2",
-            "url": "https://c.mipcdn.com/static/v1/mip-mipengine-preview/mip-mipengine-preview.js"
+            "url": "https://c.mipcdn.com/static/v1/mip-mipengine-preview/mip-mipengine-preview.js",
             "deps": []
         }
     ]
